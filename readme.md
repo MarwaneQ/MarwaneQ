@@ -99,7 +99,7 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
 
 <br/>
-
+<!--
 ## Top Open Source -
 [![Template](https://github-readme-stats.vercel.app/api/pin/?username=MarwaneQ&repo=Template-3_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MarwaneQ/Template-3)
 [![Tip](https://github-readme-stats.vercel.app/api/pin/?username=MarwaneQ&repo=Tip-Calculator_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MarwaneQ/Tip-Calculator)
@@ -109,7 +109,7 @@
 <p align="left">
   <a href="https://github.com/MarwaneQ?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
+-->
 <br/>
 <hr/>
 <br/>
