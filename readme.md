@@ -128,16 +128,17 @@
 
 <a> 
     <a href="https://github.com/MarwaneQ"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MarwaneQ&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
   <a href="https://github.com/MarwaneQ"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MarwaneQ&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaneQ&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
