@@ -31,7 +31,7 @@
   <samp>
     <!--<a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>-->
     <br>
-    「 I am a front end web application developer from <b>Algeria</b> 」
+    「 I am a cs student and front end web application developer from <b>Algeria</b> 」
     <br>
     <br>
   </samp>
