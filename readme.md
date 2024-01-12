@@ -12,12 +12,12 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=MarwaneQ">
+ <a href="https://komarev.com/ghpvc/?username=MarwaneQ">
   <img align="right" src="https://komarev.com/ghpvc/?username=MarwaneQ&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@018cff95-62d4-4c2e-8d2a-f184db7cdec9)
 
 <!-- Intro  -->
 <h3 align="center">
