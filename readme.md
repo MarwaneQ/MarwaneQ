@@ -6,7 +6,7 @@
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=welcome+to+my+github;2%2B+Years+of+expirance;Always+learning+New+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=welcome+to+my+github;2%2B+years+of+experience;Always+learning+New+things)](https://git.io/typing-svg)
 
  
 
