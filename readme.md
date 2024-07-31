@@ -6,9 +6,7 @@
 -->
 
 
-<p align="center">
-  <a href="https://github.com/MarwaneQ"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=welcome+to+my+github;2%2B+Years+of+expirance;Always+learning+New+things)](https://git.io/typing-svg)
 
  
 
