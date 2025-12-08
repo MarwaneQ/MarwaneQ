@@ -1,137 +1,159 @@
- <!--
+<!-- Header -->
 <h2 align="center">
-  Welcome to Marwane World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Marwane's World 🚀
 </h2>
--->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=7F3FBF&width=500&lines=Backend+Engineer;SaaS+Builder;Expo+Mobile+Developer;Always+learning+and+shipping+ideas)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=welcome+to+my+github;2%2B+years+of+experience;Always+learning+New+things)](https://git.io/typing-svg)
-
- 
-
- <a href="https://komarev.com/ghpvc/?username=MarwaneQ">
-  <img align="right" src="https://komarev.com/ghpvc/?username=MarwaneQ&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=MarwaneQ">
+  <img align="right" src="https://komarev.com/ghpvc/?username=MarwaneQ&label=Visitors&color=7F3FBF&style=flat" />
 </a>
 
+---
 
-[![wakatime](https://wakatime.com/badge/user/018cff95-62d4-4c2e-8d2a-f184db7cdec9.svg)](https://wakatime.com/@018cff95-62d4-4c2e-8d2a-f184db7cdec9)
-
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Marwane</a></b>
-        </samp>
+  <samp>Hey there 👋 I'm <b>Marwane</b></samp>
 </h3>
 
-
-<p align="center"> 
+<p align="center">
   <samp>
-    <!--<a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>-->
-    <br>
-    「 I am a cs student and front end web application developer from <b>Algeria</b> 」
-    <br>
-    <br>
+    Software Engineer & Full Stack Developer from <b>Algeria</b> 🇩🇿  
+    <br> I build SaaS products, mobile apps, and backend systems.
   </samp>
 </p>
 
 <p align="center">
-<!-- <a href="https://MarwaneQ.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MarwaneQ" />
- </a> -->
  <a href="https://www.linkedin.com/in/marwane-bensadallah-238a40247" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MarwaneQ"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <!-- <a href="https://dev.to/MarwaneQ" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MarwaneQ" />
- </a> -->
  <a href="https://twitter.com/Marawane8" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <!--<a href="https://instagram.com/_MarwaneQ" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MarwaneQ" />
- </a> -->
- <!--<a href="https://facebook.com/MarwaneQ.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="MarwaneQ"  />
-  </a> -->
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/output-onlinegiftools.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Marwanelecf@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/MarwaneQ/MarwaneQ/issues)
-
 </p>
 
-<br/>
-<br/>
-<br/>
+---
 
-## Use To Code
+# 🧑‍💻 **About Me**
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
--->
+<img align="right" width="330" src="/assets/output-onlinegiftools.gif"/>
 
-<br/>
-<!--
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=MarwaneQ&repo=Template-3_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MarwaneQ/Template-3)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]()
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]()
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]()
+- 🚀 Software Engineer with a focus on **backend engineering & clean architecture**
+- ⚙️ Experience building **SaaS platforms, AI-powered tools, and mobile apps**
+- 📱 **Expo & React Native** developer for cross-platform mobile applications
+- 🧩 Strong with Node.js, Express, MongoDB, PostgreSQL, and micro-services architecture
+- 💼 Worked as CTO, Freelancer & Full Stack Engineer for international teams
+- 🧠 Passionate about scalable systems, problem solving, and product building
+- 📬 Contact me anytime: **Marwanelecf@gmail.com**
 
-<p align="left">
-  <a href="https://github.com/MarwaneQ?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
--->
-<br/>
-<hr/>
-<br/>
+---
+# 🚀 Tech Stack
+
+These are the technologies I use to design scalable, maintainable, and production-ready systems:
+
+### 🟣 Backend Engineering
+- **Node.js** — event-driven architecture, high-performance REST & GraphQL APIs  
+- **Express.js / Fastify** — modular, clean architecture, dependency injection  
+- **Java + Spring Boot** — enterprise-grade apps, layered architecture, services & microservices  
+- **Authentication & Security** — JWT, OAuth2, refresh tokens, RBAC, rate limiting  
+- **API Design** — REST standards, versioning, pagination, error handling, logging  
+
+### 🟢 Databases & Storage
+- **PostgreSQL** — relational modeling, indexes, constraints, migrations, optimization  
+- **MongoDB** — document-oriented design, aggregations, schema patterns  
+- **Redis** — caching, pub/sub, sessions, queues  
+- **Prisma / Sequelize / Mongoose** — schema & DB abstraction  
+- **Cloud Storage** — S3-compatible buckets, presigned URLs  
+
+---
+
+## 📱 Mobile Development (Expo + React Native)
+- **Expo Managed Workflow** — fast development & deployment  
+- **React Native** — cross-platform mobile apps (iOS & Android)  
+- **Native Modules** — maps, sensors, camera, push notifications  
+- **Local DB** — SQLite, MMKV, AsyncStorage  
+- **App Architecture** — atomic design, reusable components, clean hooks  
+- **State Management** — Zustand, Redux Toolkit, Jotai  
+- **Mobile CI/CD** — OTA updates, EAS builds  
+
+---
+
+## 🎨 Frontend (Web)
+- **Next.js** — server-side rendering (SSR), static generation, API routes  
+- **React** — hooks-based architecture, reusable UI components  
+- **TailwindCSS** — utility-first design system  
+- **ShadCN / Ant Design** — production-ready UI frameworks  
+
+---
+
+## 🛠️ DevOps & Tooling
+- **Docker** — containerized apps, multi-stage builds, Docker Compose  
+- **Git & GitHub** — branch strategies, PR reviews, versioning  
+- **CI/CD Pipelines** — GitHub Actions for tests, builds, deployments  
+- **Nginx** — reverse proxy, load balancing  
+- **PM2** — process manager for Node.js in production  
+- **Monitoring** — logs, metrics, uptime alerts  
+
+---
+
+## 📦 Architecture & Patterns
+- **Clean Architecture** — controllers → services → repositories  
+- **Domain-Driven Design (DDD)** — value objects, entities, domain events  
+- **Microservices** — decoupled services, messaging, queues  
+- **Event-Driven Systems** — Kafka, BullMQ, Webhooks  
+- **Scalable Folder Structures** — modular codebases  
+
+---
+
+## 🤖 AI + Automation (Optional if you want to include)
+- Using **OpenAI / Claude APIs** for assistants & automation  
+- Chat completion, embeddings, vector search  
+- Document parsing, smart chatbots, automated workflows  
+
+---
+
+
+
+
+# 🏗️ **What I'm Working On**
+
+### 🔹 A SaaS ecosystem for Medical learning (full-stack)  
+Backend, dashboard, AI tools, document processing, note system, and more.
+
+### 🔹 Mobile apps with Expo  
+Cross-platform apps with professional UI/UX and optimized performance.
+
+### 🔹 Scalable backend systems  
+Clean architecture, domain-driven design, API design, and micro-services.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/MarwaneQ">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaneQ&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaneQ&theme=radical&border=7F3FBF&background=0D1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MarwaneQ">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarwaneQ&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarwaneQ&theme=radical"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/MarwaneQ"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MarwaneQ&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MarwaneQ"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MarwaneQ&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/MarwaneQ">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MarwaneQ&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+  </a>
+  <a href="https://github.com/MarwaneQ">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MarwaneQ&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" height="170px"/>
+  </a>
+</p>
 
+---
 
-<!--![MarwaneQ's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaneQ&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
+# 💬 Let's Connect
 
-<br><br>
+If you want to collaborate, discuss backend architecture, or build something cool —  
+I’m always open to messages on **LinkedIn** or **Twitter** 🚀
