@@ -105,7 +105,7 @@ These are the technologies I use to design scalable, maintainable, and productio
 
 ---
 
-## 🤖 AI + Automation (Optional if you want to include)
+## 🤖 AI + Automation 
 - Using **OpenAI / Claude APIs** for assistants & automation  
 - Chat completion, embeddings, vector search  
 - Document parsing, smart chatbots, automated workflows  
